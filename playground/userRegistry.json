@@ -1,0 +1,4 @@
+{
+    "01":{"userID": 1,"userName":"auryn","password":"pw","firstName":"Auryn","lastName":"thecat","userRole":"Employee"},
+    "02":{"userID": 2,"userName":"Lori","password":"pw","firstName":"Lorelai", "lastName":"Lyons","userRole":"Manager"}
+}
